@@ -1,1 +1,3 @@
-No se puede inicializar el dispositivo PRN
+No se puede inicializar el dispositivo PRNpatata
+tasdfasdf
+asdfas
